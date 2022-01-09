@@ -1,0 +1,130 @@
+.profile-pic-div {
+    background-color: #DFDFE0;
+    border-radius: 50%;
+    height: 45px;
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 500;
+    color: #6F6E73;
+}
+
+.user-name {
+    color: #33373B;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: -0.15399999916553497px;
+}
+
+.user-email {
+    font-family: Manrope;
+    font-size: 14px;
+    color: #6F6E73;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: -0.15399999916553497px;
+}
+
+.nav-tabs .nav-link {
+    color: #6F6E73 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    font-size: 12px;
+}
+
+.nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #fff;
+    border-bottom: 3px solid;
+    border-color: #fff #fff #414047 !important;
+}
+
+/* actions */
+.actions-button {
+    color: #fff !important;
+    background-color: #414047 !important;
+    width: 100%;
+    border-radius: 10px !important;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.send-div {
+    width: 100%;
+}
+
+.arrow-icon {
+    float: right;
+}
+
+/* collectibles */
+.collectibles-sec {
+    padding: 1% !important;
+}
+
+.collectibles-count {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: #33373B;
+    padding: 0%;
+    text-align: center;
+    color: #fff;
+}
+
+.collectibles-heading h4 {
+    font-size: 14px;
+    margin: 0;
+    color: #414047;
+}
+
+.collectible-photo {
+    background-color: #DFDFE0;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+
+.collectible-name {
+    color: #414047;
+    font-size: 14px;
+}
+
+.collectible-by {
+    color: #6F6E73;
+    margin: 0;
+}
+
+/* connected experience */
+.experience-sec {
+    padding: 1% !important;
+}
+
+.connected-experience-count {
+    color: #6F6E73;
+}
+
+.disconnect {
+    color: #885FFF;
+    font-weight: normal;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.connected-experience {
+    background-color: #BB85FF;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    padding: 5%;
+}
+
+.defi {
+    background-color: #2F80ED;
+}

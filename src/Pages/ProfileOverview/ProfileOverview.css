@@ -1,0 +1,91 @@
+.profileoverview {
+    border-top: 58px solid #E5D0FF;
+}
+
+.anchorStyle {
+    color: black;
+    text-decoration: none;
+}
+
+.profileimage {
+    position: absolute;
+    top: -2rem;
+    left: 1.7rem;
+    border-radius: 8px;
+}
+
+.shareOption {
+    color: #587BE0;
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titleSection {
+    margin: 2rem 1.6rem;
+}
+
+.openInNewTab {
+    margin-top: 18px;
+    display: flex;
+    align-items: center;
+}
+
+.openBtn {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #414047;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    outline: none;
+    height: 40px;
+    margin-right: 10px;
+    width: 105px;
+}
+
+.accBtn {
+    color: black !important;
+    background-color: white !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.itemBorder {
+    border: none !important;
+}
+
+/* actiities */
+.activityCard {
+    margin: 1.5rem 0;
+}
+
+.activityImg {
+    width: 35px;
+    height: 35px;
+    border-radius: 12px;
+}
+
+/* shareModel */
+.linkDiv {
+    padding: 8px;
+    color: #587BE0;
+    background: #EAEFFF;
+    border-radius: 5px;
+}
+.copyLink{
+    font-size: 14px;
+    margin: 1rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #587BE0;
+}
+.socialIcons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0;
+}

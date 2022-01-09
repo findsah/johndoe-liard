@@ -1,0 +1,62 @@
+
+.mainTitle {
+    font-weight: 500;
+    text-align: left;
+}
+
+.expHorizantalCard {
+    margin: 1rem 0;
+}
+
+.defiImg {
+    width: 69px;
+    height: 69px;
+    border-radius: 12px;
+}
+
+.expTitle {
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.expSpan {
+    font-size: 12px;
+}
+
+/* categoryCard */
+.categoryCard {
+    border-radius: 6px;
+    background-color: aqua;
+    margin: 1rem 0;
+    padding: 12px;
+}
+
+.titleWrapping {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
+}
+
+/* Model custom styling */
+.modal-header {
+    border-bottom: none !important;
+    padding: 10px !important;
+}
+
+.btn-close {
+    font-size: 12px;
+}
+
+/* Filters */
+.filterIcons {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
+
+.filterLabels {
+    display: flex;
+    align-items: center;
+}
