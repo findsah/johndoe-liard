@@ -1,6 +1,56 @@
-# Getting Started with Create React App
+# JONDOE NFT PROJECT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Demo link:
+
+https://johndoe-liard.vercel.app/
+
+# About The App:
+
+NFT(non-fungible token), which basically means that it's a one-of-a-kind digital asset that belongs to you and you only.
+In this project you can create an NFT image for your digital asset.
+
+# Screenshots:
+
+![1](https://user-images.githubusercontent.com/44106586/148733652-6a97a5a7-7561-4a94-99bf-88a9789b5626.png)
+![2](https://user-images.githubusercontent.com/44106586/148733682-1f967672-2e07-4cd1-bc82-d0ee0277b81e.png)
+![3](https://user-images.githubusercontent.com/44106586/148733703-ef322666-53dd-435d-9506-f7f749cf47bd.png)
+![4](https://user-images.githubusercontent.com/44106586/148733712-e4b56e65-3fc7-4deb-aad0-2451733aea4b.png)
+
+# Technologies: 
+
+i used here:
+### REACTJS
+
+# Libraries:
+
+### STYLED COMPONENTS
+### bootstrap & react-bootstrap
+### react-dom
+### react-icons
+### react-router-dom
+### styled-components
+
+# Setup:
+
+* Download or clone the repository.
+* Go to your project folder (cd johndoe).
+* Run npm install.
+* then npm start.
+* You can see running project on your borwser.
+
+# Approach:
+
+I adopted the camelCase naming style for my css class names and my src folder structure look like this:
+
+![5](https://user-images.githubusercontent.com/44106586/148735186-60b47d98-4448-4285-9a32-ec9f18672e38.PNG)
+
+* For data endpoints i define a floder name Helpers. In this folder i define dummy data structure. When we integrate api's we just need to change data array all things looks remains same.
+
+# Status:
+
+[JONDOE NFT PROJECT] is still in progress.
+
+
 
 ## Available Scripts
 
@@ -38,33 +88,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
